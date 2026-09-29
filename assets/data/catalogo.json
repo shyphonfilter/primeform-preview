@@ -1,0 +1,298 @@
+[
+  {
+    "id": 46,
+    "name": "PernaLonga Peaky Blinders",
+    "category": "Outros",
+    "sale_print_value": 165.75,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 40,
+    "name": "Gogu",
+    "category": "Outros",
+    "sale_print_value": 109.75,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 71,
+    "name": "Chaveiro Lobo Trico",
+    "category": "Outros",
+    "sale_print_value": 77.75,
+    "models_per_print": 9,
+    "image_url": null
+  },
+  {
+    "id": 67,
+    "name": "Sapos Yoga",
+    "category": "Outros",
+    "sale_print_value": 5.1,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 66,
+    "name": "Soneca Gato",
+    "category": "Outros",
+    "sale_print_value": 28.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 65,
+    "name": "Dinoussauro Croche",
+    "category": "Outros",
+    "sale_print_value": 14.8,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 64,
+    "name": "Chaveiro Peixe Quadrado G",
+    "category": "Outros",
+    "sale_print_value": 11.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 63,
+    "name": "Chaveiro Joaninha G",
+    "category": "Outros",
+    "sale_print_value": 10.2,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 62,
+    "name": "Soneca Raposa B",
+    "category": "Outros",
+    "sale_print_value": 46.85,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 61,
+    "name": "Espantalho",
+    "category": "Outros",
+    "sale_print_value": 18.85,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 60,
+    "name": "Soneca Buldogue P",
+    "category": "Outros",
+    "sale_print_value": 26.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 59,
+    "name": "Soneca Coelho P",
+    "category": "Outros",
+    "sale_print_value": 26.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 58,
+    "name": "Soneca Coelho",
+    "category": "Outros",
+    "sale_print_value": 31.75,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 57,
+    "name": "Soneca Raposa",
+    "category": "Outros",
+    "sale_print_value": 33.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 56,
+    "name": "Soneca Capvara P",
+    "category": "Outros",
+    "sale_print_value": 26.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 55,
+    "name": "Soneca Capvara G",
+    "category": "Outros",
+    "sale_print_value": 37.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 54,
+    "name": "Soneca Buldogue G",
+    "category": "Outros",
+    "sale_print_value": 33.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 53,
+    "name": "Elefante Sentado",
+    "category": "Outros",
+    "sale_print_value": 16,
+    "models_per_print": 2,
+    "image_url": null
+  },
+  {
+    "id": 52,
+    "name": "Elefante Deitado",
+    "category": "Outros",
+    "sale_print_value": 24.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 51,
+    "name": "Angel Stitch (Rosa)",
+    "category": "Outros",
+    "sale_print_value": 76,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 50,
+    "name": "Piu-Piu",
+    "category": "Outros",
+    "sale_print_value": 54.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 49,
+    "name": "Sam Peaky Blinder",
+    "category": "Outros",
+    "sale_print_value": 142,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 48,
+    "name": "Hulk",
+    "category": "Outros",
+    "sale_print_value": 126.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 45,
+    "name": "Donald Duck Music",
+    "category": "Outros",
+    "sale_print_value": 367.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 44,
+    "name": "Lola Bunny Peaky Blinders",
+    "category": "Outros",
+    "sale_print_value": 78,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 43,
+    "name": "Chimuelo",
+    "category": "Outros",
+    "sale_print_value": 30.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 42,
+    "name": "Furia Luminosa",
+    "category": "Outros",
+    "sale_print_value": 33.75,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 41,
+    "name": "Vedita",
+    "category": "Outros",
+    "sale_print_value": 117,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 39,
+    "name": "Charmander Pequeno",
+    "category": "Outros",
+    "sale_print_value": 25.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 38,
+    "name": "Simba",
+    "category": "Outros",
+    "sale_print_value": 56,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 37,
+    "name": "PikaTchu Rosa",
+    "category": "Outros",
+    "sale_print_value": 125.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 36,
+    "name": "Serpente Preta e Laranja",
+    "category": "Outros",
+    "sale_print_value": 38,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 35,
+    "name": "PikaTchu Normal",
+    "category": "Outros",
+    "sale_print_value": 65.25,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 34,
+    "name": "Mascote Flamengo",
+    "category": "Outros",
+    "sale_print_value": 138.5,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 33,
+    "name": "Yoshi",
+    "category": "Outros",
+    "sale_print_value": 129.75,
+    "models_per_print": 2,
+    "image_url": null
+  },
+  {
+    "id": 32,
+    "name": "Taz Peaky Blinder",
+    "category": "Outros",
+    "sale_print_value": 265,
+    "models_per_print": 1,
+    "image_url": null
+  },
+  {
+    "id": 28,
+    "name": "ZKULL",
+    "category": "Outros",
+    "sale_print_value": 54.05,
+    "models_per_print": 1,
+    "image_url": null
+  }
+]
