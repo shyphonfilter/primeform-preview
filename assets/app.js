@@ -68,7 +68,7 @@ const CATEGORIES = ['Action figure','Anime','Personalizados','Chaveiros','Decora
 const key = s => String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
 function category(s) {const label = typeof s === 'string' ? s.trim() : ''; return CATEGORIES.find(c=>key(c)===key(label)) || label || 'Outros';}
 function selectProducts(items, selected) {return selected ? items.filter(p=>key(category(p.category))===key(selected)) : items;}
-function safeImage(value, origin) {try {const u=new URL(value,origin);return typeof value==='string' && value && u.origin===origin && u.pathname.startsWith('/uploads/') ? u.href : null;} catch(_){return null;}}
+function safeImage(value, origin) {try {if (typeof value!=='string'||!value) return null;const u=new URL(value,origin);if(u.origin!==origin) return null;return /(^|\/)uploads\/[^/]+$/.test(u.pathname)?u.href:null;} catch(_){return null;}}
 function priceLabel(p) {const v=p.sale_print_value;return v!==null && v!==undefined && String(v).trim()!=='' && Number.isFinite(Number(v)) && Number(v)>=0 ? new Intl.NumberFormat('pt-BR',{style:'currency',currency:'BRL'}).format(Number(v)) : 'Preco sob consulta';}
 function whatsappLink(p) {const n=Number(p.models_per_print);return 'https://wa.me/'+CONFIG.whatsapp+'?text='+encodeURIComponent(`Ola! Tenho interesse no modelo ${p.name} (${priceLabel(p)}${n>1?`, lote de ${n} pecas`:''}).`);}
 if(typeof module!=='undefined' && module.exports) module.exports={category,selectProducts,safeImage,priceLabel,whatsappLink};
