@@ -5,8 +5,9 @@ homologação. Ela está vazia de propósito: as imagens não são publicadas.
 
 ## Como funciona
 
-O catálogo (`assets/data/catalogo.json`) já aponta, para cada produto, o nome do
-arquivo que ele espera aqui:
+O catálogo (`assets/data/catalogo.json`) espelha a **API pública de produção**
+(`https://primeform3d.com.br/api/products`), que hoje lista **77 produtos**.
+Para cada produto, o `image_url` já indica o nome do arquivo esperado aqui:
 
 ```json
 { "name": "Charmander Pequeno", "image_url": "uploads/modelo-39-6c4f62c84f3e.png" }
@@ -22,7 +23,8 @@ produto correspondente. A vitrine passa a exibi-la **sem nenhuma alteração de
 código**.
 
 As fotos de origem ficam em `https://catalogo.primeform3d.com.br/uploads/`
-(acesso por senha básica). Cada uma tem cerca de 340 KB; as 37 somam ~12,5 MB.
+(acesso por senha básica). Cada uma tem cerca de 340 KB; as de hoje somam
+aproximadamente 12,5 MB (e cresce conforme entram novos produtos).
 
 ## Por que estão vazias
 

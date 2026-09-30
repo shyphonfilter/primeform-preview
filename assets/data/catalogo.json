@@ -1,10 +1,38 @@
 [
   {
+    "name": "AAA",
+    "category": "Outros",
+    "sale_print_value": 112.4,
+    "models_per_print": 2,
+    "image_url": null
+  },
+  {
     "name": "Angel Stitch (Rosa)",
     "category": "Outros",
     "sale_print_value": 76.0,
     "models_per_print": 1,
     "image_url": "uploads/modelo-51-29789325987d.png"
+  },
+  {
+    "name": "Cacheiro Maltês",
+    "category": "Outros",
+    "sale_print_value": 4.6,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-102-6f5e268a1db1.png"
+  },
+  {
+    "name": "Cachorro Knitted Articulado",
+    "category": "Outros",
+    "sale_print_value": 15.5,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-79-d85d097127b8.png"
+  },
+  {
+    "name": "Caneca São Paulo",
+    "category": "Outros",
+    "sale_print_value": 83.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-112-4ca1d70ad2c7.png"
   },
   {
     "name": "Charmander Pequeno",
@@ -14,11 +42,137 @@
     "image_url": "uploads/modelo-39-6c4f62c84f3e.png"
   },
   {
+    "name": "Chaveiro Articulado Coração",
+    "category": "Outros",
+    "sale_print_value": 12.08,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-91-3880ba55460c.png"
+  },
+  {
+    "name": "Chaveiro Articulado Cruz",
+    "category": "Outros",
+    "sale_print_value": 12.08,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-90-9096e2cbad83.png"
+  },
+  {
+    "name": "Chaveiro Articulado Pata",
+    "category": "Outros",
+    "sale_print_value": 12.08,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-89-ff69e85b6000.png"
+  },
+  {
+    "name": "Chaveiro Balão Dog",
+    "category": "Outros",
+    "sale_print_value": 4.25,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-97-2a83f1fd7ea2.png"
+  },
+  {
+    "name": "Chaveiro Camaleão Tramado",
+    "category": "Outros",
+    "sale_print_value": 7.25,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-99-4073551bb3a2.png"
+  },
+  {
+    "name": "Chaveiro Capvara",
+    "category": "Outros",
+    "sale_print_value": 43.25,
+    "models_per_print": 6,
+    "image_url": "uploads/modelo-88-b68d49b6075a.png"
+  },
+  {
+    "name": "Chaveiro Coelho",
+    "category": "Outros",
+    "sale_print_value": 15.65,
+    "models_per_print": 4,
+    "image_url": "uploads/modelo-83-8cf0207757ee.png"
+  },
+  {
+    "name": "Chaveiro Coração Croche",
+    "category": "Outros",
+    "sale_print_value": 4.25,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-101-1d62addd82b2.png"
+  },
+  {
+    "name": "Chaveiro Coração Relevo",
+    "category": "Outros",
+    "sale_print_value": 6.7,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-100-197fca4533e6.png"
+  },
+  {
+    "name": "Chaveiro Coração Vazado",
+    "category": "Outros",
+    "sale_print_value": 3.9,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-95-7e93608a5017.png"
+  },
+  {
+    "name": "Chaveiro Crocodilo Trico",
+    "category": "Outros",
+    "sale_print_value": 10.8,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-94-d5104308f19f.png"
+  },
+  {
+    "name": "Chaveiro Cute Mini",
+    "category": "Outros",
+    "sale_print_value": 4.95,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-98-e378ac00bbb4.png"
+  },
+  {
+    "name": "Chaveiro Flex Hipopotamo",
+    "category": "Outros",
+    "sale_print_value": 6.35,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-84-09c131c378fb.png"
+  },
+  {
+    "name": "Chaveiro Flexi Rhino",
+    "category": "Outros",
+    "sale_print_value": 6.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-81-afb0cc56f695.png"
+  },
+  {
+    "name": "Chaveiro Flexi Salcicha",
+    "category": "Outros",
+    "sale_print_value": 6.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-82-49321ad53411.png"
+  },
+  {
+    "name": "Chaveiro Hexagon Fidget",
+    "category": "Outros",
+    "sale_print_value": 6.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-93-de1b63b0356b.png"
+  },
+  {
+    "name": "Chaveiro Joaninha",
+    "category": "Outros",
+    "sale_print_value": 62.2,
+    "models_per_print": 8,
+    "image_url": "uploads/modelo-86-aa3604e0a727.png"
+  },
+  {
     "name": "Chaveiro Joaninha G",
     "category": "Outros",
     "sale_print_value": 10.2,
     "models_per_print": 1,
     "image_url": "uploads/modelo-63-254af33af184.png"
+  },
+  {
+    "name": "Chaveiro Knitted Puppy",
+    "category": "Outros",
+    "sale_print_value": 7.43,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-80-e2d7b9b005d0.png"
   },
   {
     "name": "Chaveiro Lobo Trico",
@@ -28,6 +182,13 @@
     "image_url": "uploads/modelo-114-d3123b920728.png"
   },
   {
+    "name": "Chaveiro Peixe Cúbico - (Peixe-palhaço)",
+    "category": "Outros",
+    "sale_print_value": 9.7,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-92-def6247a4412.png"
+  },
+  {
     "name": "Chaveiro Peixe Quadrado G",
     "category": "Outros",
     "sale_print_value": 11.25,
@@ -35,11 +196,60 @@
     "image_url": "uploads/modelo-64-e5be22c11414.png"
   },
   {
+    "name": "Chaveiro Pokebola",
+    "category": "Outros",
+    "sale_print_value": 9.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-87-49ed791f5f45.png"
+  },
+  {
+    "name": "Chaveiro Raposa Flexível",
+    "category": "Outros",
+    "sale_print_value": 4.6,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-103-057ab5be3f76.png"
+  },
+  {
+    "name": "Chaveiro Schnauzer Tricotado",
+    "category": "Outros",
+    "sale_print_value": 74.75,
+    "models_per_print": 9,
+    "image_url": "uploads/modelo-77-ee031e9e93b3.png"
+  },
+  {
+    "name": "Chaveiro Triceratops",
+    "category": "Outros",
+    "sale_print_value": 4.6,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-96-81e33042fae7.png"
+  },
+  {
+    "name": "Chavero Caixa Interrogação",
+    "category": "Outros",
+    "sale_print_value": 9.35,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-85-86b3a9f1d1dd.png"
+  },
+  {
     "name": "Chimuelo",
     "category": "Outros",
     "sale_print_value": 30.25,
     "models_per_print": 1,
     "image_url": "uploads/modelo-43-00013c19cb42.png"
+  },
+  {
+    "name": "Cobra Longa Flexível",
+    "category": "Outros",
+    "sale_print_value": 20.4,
+    "models_per_print": 2,
+    "image_url": "uploads/modelo-113-f9cb2029e1b3.png"
+  },
+  {
+    "name": "Coelho Trico Pascoa",
+    "category": "Outros",
+    "sale_print_value": 18.45,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-104-47c590251935.png"
   },
   {
     "name": "Dinoussauro Croche",
@@ -105,11 +315,25 @@
     "image_url": "uploads/modelo-44-a119d6887aeb.png"
   },
   {
+    "name": "Mascote Corinthias",
+    "category": "Outros",
+    "sale_print_value": 145.05,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-117-d10402c5f292.png"
+  },
+  {
     "name": "Mascote Flamengo",
     "category": "Outros",
     "sale_print_value": 138.5,
     "models_per_print": 1,
     "image_url": "uploads/modelo-34-ab32401a7e37.png"
+  },
+  {
+    "name": "Patrulha Canina Marshall",
+    "category": "Outros",
+    "sale_print_value": 52.4,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-105-cedb648e3e1e.png"
   },
   {
     "name": "PernaLonga Peaky Blinders",
@@ -159,6 +383,13 @@
     "sale_print_value": 52.7,
     "models_per_print": 1,
     "image_url": "uploads/modelo-36-88b28c9a3930.png"
+  },
+  {
+    "name": "ShadowBatman P",
+    "category": "Outros",
+    "sale_print_value": 42.7,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-115-3298ccb1e518.png"
   },
   {
     "name": "Simba",
@@ -217,6 +448,27 @@
     "image_url": "uploads/modelo-66-f0f60b301a1c.png"
   },
   {
+    "name": "Soneca Golden",
+    "category": "Outros",
+    "sale_print_value": 35.5,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-109-4169b37cef9c.png"
+  },
+  {
+    "name": "Soneca Lobo Branco",
+    "category": "Outros",
+    "sale_print_value": 54.75,
+    "models_per_print": 2,
+    "image_url": "uploads/modelo-107-d869b005f2a0.png"
+  },
+  {
+    "name": "Soneca Porco",
+    "category": "Outros",
+    "sale_print_value": 39.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-110-10bd13a24615.png"
+  },
+  {
     "name": "Soneca Raposa",
     "category": "Outros",
     "sale_print_value": 33.5,
@@ -231,6 +483,27 @@
     "image_url": "uploads/modelo-62-f7847d976d43.png"
   },
   {
+    "name": "Soneca Raposato",
+    "category": "Outros",
+    "sale_print_value": 58.5,
+    "models_per_print": 2,
+    "image_url": "uploads/modelo-106-82b562fc1c4c.png"
+  },
+  {
+    "name": "Soneca Tartaruga",
+    "category": "Outros",
+    "sale_print_value": 37.25,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-108-723ffc2c349a.png"
+  },
+  {
+    "name": "Soneca Terrier",
+    "category": "Outros",
+    "sale_print_value": 33.75,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-111-99bbf3fe0fc6.png"
+  },
+  {
     "name": "Taz Peaky Blinder",
     "category": "Outros",
     "sale_print_value": 265.0,
@@ -243,6 +516,13 @@
     "sale_print_value": 117.0,
     "models_per_print": 1,
     "image_url": "uploads/modelo-41-8553c63083ea.png"
+  },
+  {
+    "name": "Voronoi Puppy",
+    "category": "Outros",
+    "sale_print_value": 25.0,
+    "models_per_print": 1,
+    "image_url": "uploads/modelo-78-ab60929aa64f.png"
   },
   {
     "name": "Yoshi",
